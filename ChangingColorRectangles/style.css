@@ -1,0 +1,23 @@
+
+
+.blackback{
+  background-color: black;
+  border: gray;
+  
+}
+.yellowback{
+  background-color:yellow;
+  border: gray;
+}
+.lightback{
+  background-color: lightblue;
+}
+
+
+.redback{
+  background-color: red;
+}
+
+.pinkback{
+  background-color: pink;
+}
